@@ -12,7 +12,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class SchoolRepository @Inject constructor(
+class SchoolsRepository @Inject constructor(
     private val api: NYCSchoolsApi,
     private val schoolDao: SchoolDao,
     private val satScoreDao: SatScoreDao
