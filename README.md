@@ -74,8 +74,8 @@ To run tests, right-click a test class or method in Android Studio and select **
 
 ### School List
 
-![School List](screenshots/schools-list.png)
+![School List](screenshots/school-list.jpg)
 
 ### School Details and SAT Scores
 
-![School Details](screenshots/school-details-sat-scores.png)
+![School Details](screenshots/school-details.jpg)
